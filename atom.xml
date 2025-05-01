@@ -6,7 +6,7 @@
   <link href="https://orely99.github.io/atom.xml" rel="self"/>
   
   <link href="https://orely99.github.io/"/>
-  <updated>2025-05-01T13:08:31.107Z</updated>
+  <updated>2025-05-01T17:15:55.567Z</updated>
   <id>https://orely99.github.io/</id>
   
   <author>
@@ -17,22 +17,27 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://orely99.github.io/2025/05/01/hello-world/"/>
-    <id>https://orely99.github.io/2025/05/01/hello-world/</id>
-    <published>2025-05-01T13:08:31.107Z</published>
-    <updated>2025-05-01T13:08:31.107Z</updated>
+    <title>此刻不同的世界</title>
+    <link href="https://orely99.github.io/2025/05/02/%E6%AD%A4%E5%88%BB%E4%B8%8D%E5%90%8C%E7%9A%84%E4%B8%96%E7%95%8C/"/>
+    <id>https://orely99.github.io/2025/05/02/%E6%AD%A4%E5%88%BB%E4%B8%8D%E5%90%8C%E7%9A%84%E4%B8%96%E7%95%8C/</id>
+    <published>2025-05-01T17:06:09.000Z</published>
+    <updated>2025-05-01T17:15:55.567Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p><strong>本系列所有文章</strong></p><ol class="series-items"><li><a href="/2025/05/02/%E6%AD%A4%E5%88%BB%E4%B8%8D%E5%90%8C%E7%9A%84%E4%B8%96%E7%95%8C/" title="此刻不同的世界">此刻不同的世界</a></li></ol><table><tr><td bgcolor=MistyRose>你可以通过使用右下角的小齿轮，来开启黑夜模式和阅读模式。</td></tr></table><hr><p><strong>此刻谁会在翩翩起舞呢？被雨水浸透的冰凉衣服黏在皮肤上，凉透心底的风不断刮着，无助的我站在屋檐下，祈求雨快点止歇。请翩翩起舞吧，在金碧辉煌而温暖干燥的大厅里，世界就该如此。请翩翩起舞吧，让我也能够有着一份念想、在某个地方那里金碧辉煌、舒适干燥而温暖，有人能够在那翩翩起舞，展示世界和生命的美。只是，翩翩起舞之人啊，你也会祈求雨快点止歇、你也会在翩翩起舞时期待着某种止歇吗?</strong></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;本系列所有文章&lt;/strong&gt;&lt;/p&gt;
+&lt;ol class=&quot;series-items&quot;&gt;&lt;li&gt;&lt;a href=&quot;/2025/05/02/%E6%AD%A4%E5%88%BB%E4%B8%8D%E5%90%8C%E7%9A%84%E4%B8%96%E7%</summary>
       
     
     
     
+    <category term="记录" scheme="https://orely99.github.io/categories/%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="记录" scheme="https://orely99.github.io/tags/%E8%AE%B0%E5%BD%95/"/>
     
   </entry>
   
