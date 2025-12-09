@@ -6,7 +6,7 @@
   <link href="https://orely99.github.io/atom.xml" rel="self"/>
   
   <link href="https://orely99.github.io/"/>
-  <updated>2025-05-06T14:57:44.000Z</updated>
+  <updated>2025-12-09T04:18:46.212Z</updated>
   <id>https://orely99.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>termux备份打包指令和恢复备份方法</title>
+    <link href="https://orely99.github.io/2025/12/09/termux%E5%A4%87%E4%BB%BD%E6%89%93%E5%8C%85%E6%8C%87%E4%BB%A4%E5%92%8C%E6%81%A2%E5%A4%8D%E5%A4%87%E4%BB%BD%E6%96%B9%E6%B3%95/"/>
+    <id>https://orely99.github.io/2025/12/09/termux%E5%A4%87%E4%BB%BD%E6%89%93%E5%8C%85%E6%8C%87%E4%BB%A4%E5%92%8C%E6%81%A2%E5%A4%8D%E5%A4%87%E4%BB%BD%E6%96%B9%E6%B3%95/</id>
+    <published>2025-12-09T04:11:11.000Z</published>
+    <updated>2025-12-09T04:18:46.212Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>本系列所有文章</strong></p><ol class="series-items"><li><a href="/2025/12/09/termux%E5%A4%87%E4%BB%BD%E6%89%93%E5%8C%85%E6%8C%87%E4%BB%A4%E5%92%8C%E6%81%A2%E5%A4%8D%E5%A4%87%E4%BB%BD%E6%96%B9%E6%B3%95/" title="termux备份打包指令和恢复备份方法">termux备份打包指令和恢复备份方法</a></li></ol><table><tr><td bgcolor=MistyRose>你可以通过使用右下角的小齿轮，来开启黑夜模式和阅读模式。</td></tr></table><hr><h1 id="备份"><a href="#备份" class="headerlink" title="备份"></a>备份</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">termux-setup-storage</span><br><span class="line">tar -zcvf /sdcard/termux-backup.tar.gz -C /data/data/com.termux/files ./home ./usr</span><br></pre></td></tr></table></figure><h1 id="恢复"><a href="#恢复" class="headerlink" title="恢复"></a>恢复</h1><p>1.<strong>重置termux数据</strong>,<br>2.更新软件数据</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">apt update &amp;&amp; apt upgrade -y</span><br></pre></td></tr></table></figure><p>3.还原数据</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">cd /data/data/com.termux/files/</span><br><span class="line">tar -zvxf /sdcard/termux-backup.tar.gz</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;本系列所有文章&lt;/strong&gt;&lt;/p&gt;
+&lt;ol class=&quot;series-items&quot;&gt;&lt;li&gt;&lt;a href=&quot;/2025/12/09/termux%E5%A4%87%E4%BB%BD%E6%89%93%E5%8C%85%E6%8C%87%E4%BB%</summary>
+      
+    
+    
+    
+    <category term="termux" scheme="https://orely99.github.io/categories/termux/"/>
+    
+    
+    <category term="termux" scheme="https://orely99.github.io/tags/termux/"/>
+    
+  </entry>
   
   <entry>
     <title>《魔女的夜宴》游玩第一天~</title>
